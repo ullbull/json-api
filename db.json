@@ -1,1 +1,12 @@
-{"wifi":["DIRECT-5b-HP M130f LaserJet","buNet","DIRECT-A9-HP ENVY 4520 series","buNet"]}
+{
+  "connection": {
+    "softAP": {
+      "ssid": "softapssid",
+      "ip": "softapip"
+    },
+    "wifiNetwork": {
+      "ssid": "wifissid",
+      "ip": "wifiip"
+    }
+  }
+}
